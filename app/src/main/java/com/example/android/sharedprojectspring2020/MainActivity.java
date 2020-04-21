@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //LOL! I am starting my final project!
         //This is MR. Awesome_(:з」∠)_
         //HAHAHAHAH
+
+        //┓( ´∀` )┏`)
     }
 }
